@@ -1,0 +1,29 @@
+body{
+
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+main{
+
+    background-color: beige;
+    font-family: "Fuzzy Bubbles",cursive;
+
+}
+
+section{
+    background-color: rgb(198, 194, 189);
+    padding: 20px;
+}
+
+img{
+
+    width: 400px;
+    height: 400px;
+}
+
+img:hover{
+
+    transform: scale(1.1);
+    transition: transform 1s;
+}
